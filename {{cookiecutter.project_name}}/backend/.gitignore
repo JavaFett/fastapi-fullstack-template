@@ -1,0 +1,15 @@
+**/__pycache__
+**/.pytest_cache
+
+**/config.yaml
+**/config-prod.yaml
+**/.env
+**/prod.env
+**/.venv
+**/venv
+
+**/.idea
+**/.vscode
+**/.fleet
+
+**/*.log

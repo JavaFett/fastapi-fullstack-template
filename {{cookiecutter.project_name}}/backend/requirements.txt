@@ -1,0 +1,10 @@
+apscheduler
+fastapi[all]
+passlib[bcrypt]
+pika
+pymssql
+pytest
+pytest-mock
+python-jose
+requests
+sqlalchemy
