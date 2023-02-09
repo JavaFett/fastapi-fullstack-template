@@ -3,15 +3,12 @@
     "project_short_description": "My project",
     "version": "0.1.0",
 
+    "use_frontend": "y",
+
+    "local_db_type": ["PostgreSQL", "MSSQL", "SQLite"],
     "local_db_host": "",
     "local_db_port": "",
     "local_db_dbname": "",
     "local_db_user": "",
-    "local_db_password": "",
-
-    "rabbit_host": "",
-    "rabbit_port": "",
-    "rabbit_queue_name": "",
-    "rabbit_user": "",
-    "rabbit_password": ""
+    "local_db_password": ""
 }
