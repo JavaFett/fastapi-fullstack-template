@@ -1,5 +1,5 @@
 main:
-  server_host: 127.0.0.1
+  server_host: localhost
   server_port: 4000
   server_reload: True
   debug: True

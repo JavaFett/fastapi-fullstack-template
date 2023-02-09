@@ -5,7 +5,6 @@
 
     "use_frontend": "y",
 
-    "local_db_type": ["PostgreSQL", "MSSQL", "SQLite"],
     "local_db_host": "",
     "local_db_port": "",
     "local_db_dbname": "",
