@@ -34,7 +34,7 @@ The input variables, with their default values (some auto generated) are:
 * `local_db_password` - Database password
 
 ## Details
-After creating the project **uncomment** the connection to the desired database in [`{{cookiecutter.project_name}}/backend/app/db/local_db.py`][1]
+After creating the project **uncomment** the connection to the desired database in [db configuration file][1]
 
 Will also appear new [`README.md`][2] file with deployment instructions, etc.
 
