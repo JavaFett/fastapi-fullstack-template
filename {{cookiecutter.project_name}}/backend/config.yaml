@@ -1,0 +1,7 @@
+main:
+  server_host: 127.0.0.1
+  server_port: 4000
+  server_reload: True
+  debug: True
+timezone:
+  tz: Asia/Yekaterinburg
