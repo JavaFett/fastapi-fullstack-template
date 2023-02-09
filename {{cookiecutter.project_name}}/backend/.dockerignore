@@ -6,8 +6,8 @@
 **/config-prod.yaml
 **/config-example.yaml
 **/.env
-**/prod.env
-**/example.env
+**/.env.prod
+**/.env.example
 **/.venv
 **/venv
 
